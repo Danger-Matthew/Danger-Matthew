@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2? family= Lobster & display=swap');
+body{
+    margin: 0%;
+}
+header{
+    height: 72px;;
+    display:flex;
+    align-items:center;
+    padding: 0% 20px;
+    justify-content:space-between;
+    background-color: crimson;
+    color: aliceblue;
+    font-size: 50px;
+}
+header a{
+    margin-right: 25px;
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+    color: aliceblue;
+}
+.logo{
+    font-family: 'Lobster', cursive
+}
+.Gaben{
+    width: 400px;
+    height: 400px;
+    top: -2779;
+    left: 983px;
+    position: absolute;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.first{
+    font-family: 'Lobster', cursive;
+    background-image:url(capsule_616x353.jpg) ;
+    height: 826px;
+    background-size: cover;
+    color: blue;
+    width: 1920px;
+}
+.second{
+   text-align: center;
+   font-size: 25px;
+   background-image: url(Baby.jpg);
+}
+.third{
+    background-image: url( Lina.png);
+    height:560px ;
+    background-size: cover;
+    font-size: 30px;
+    
+}
+.third  a{
+    font-family: 'Lobster', cursive;
+    display:inline-block;
+    color: aliceblue;
+    background-color: #ffad00;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+    position: relative;
+    top: 239px;
+    left: 131px;
+}
+.four{
+    background-image: url(phantom-assassin2.jpg);
+    size: 15px;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+}
